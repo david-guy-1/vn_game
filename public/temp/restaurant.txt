@@ -1,0 +1,42 @@
+--G
+NXX I decide to keep things simple, so I go to a nearby restaurant and chat with Laura while having some snacks.
+NXX I don't need to do anything extravagant, just a classic restaurant date.
+bg restaurant.png
+NNX I go into the restaurant, order food, and sit down with Laura.
+XNG I know that you are a mathematics major. What's it like for you?
+NNP It's hard. I get confused very often.
+NNP There are so many different definitions, theorems, proof techniques, and so on.
+NNP I don't really understand cohomology, it's so abstract.
+XNG I feel the same way in my physics classes. 
+XNG I feel like I still don't understand Christoffel symbols in general relativity.
+XNG Or Lie groups andn their applications in quantum mechanics. 
+HNP I learned about Lie groups in one of my differential geometry courses. It's actually very intuitive.
+HNP Take the concept of a group, and the concept of a manifold, and combine them. 
+XHG I think I understand now. It's a way of making the concept of "continuous symmetry" precise, right?
+XHG Such as the spin of an electron. 
+HHP Yes, that's a god example.
+HHX I chat with Laura about various topics, school, hobbies, math, science.
+HHX And even some philosophical topics such as the nature of reality.
+HHX Since she's a physics major and I'm a math major, our topics of study are closely related and influence each other.
+HHX She showed me so many applications of the topics I'm studying to various physics topics, such as quantum field theory and quantum chromodynamics.
+HHX I also taught her a lot too, such as elliptic curves, their group law, their applications in cryptography
+HHX And of course, the central role that they play in the proof of Fermat's last theorem.
+HHX Overall, I really enjoyed the discussion I had with her.
+--B
+NXX I decide to keep things simple, so I go to a nearby restaurant and chat with Laura while having some snacks.
+bg restaurant.png
+NNX I go into the restaurant, order food, and sit down with Laura.
+NXX I don't need to do anything extravagant, just a classic restaurant date.
+XNG I know that you are a mathematics major. What's it like for you?
+NNP It's hard. I get confused very often.
+NNP There are so many different definitions, theorems, proof techniques, and so on.
+XNG Don't you have computers to do it all for you?
+NNP What do you mean?
+XNG Can't you just use a computer to prove math theorems for you?
+NNP No, that's impossible. This is the negative result of Hilbert's Entscheidungsproblem.
+XNG But at least you have computers to help you. Physics is even harder. Physicists have to build huge machines and telescopes. 
+XNG All math people do is think about random stuff without caring about real-world issues. 
+SNP Are you... insulting my major?
+SSG Sorry, but I really have to. As much as I try not to, I just really don't like math.
+SSX I realize that this conversation is going in a bad way, so I change the subject.
+SSX I refuse to talk about anything even slightly controversial until we finish our food. 

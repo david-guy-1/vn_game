@@ -1,0 +1,52 @@
+--G
+NNX I wanted to do something exciting, so I went rock climbing with Laura
+XNG I'm a little scared of heights, but I hope that going rock climbing will help me get over it. 
+bg rock climbing.png
+fg Instructor|instructor.png
+NNX When we arrive, the instructor helps us get into the harness.
+XNG I'm having trouble, can you please help me?
+XNInstructor Just put your arms here, legs there, and click the clamps. 
+XNG Can you go first? I'm scared.
+NNP Ok, you can be the belayer while I climb.
+NXX As we start to climb, the instructor tells us what to do.
+NXX How to hold onto the rocks tightly.
+NXX How to position the body and feet properly.
+NXX Balance is just as imporant as strength. 
+NXX The meaning of all the jargon used. 
+NXX I make it to the top then start to go back down.
+NXX I almost lose my balance several times, but the rope keeps me safe.
+HXP I did it!
+HHP Do you want to try?
+HNG I'm still a bit scared but I want to have a try.
+NXX This time, I'm the belayer while Laura climbs.
+NXX She lost her balance too, I help her stay on the rocks and avoid falling.
+NNG I think this is enough, let me down please.
+NNX I slowly let the rope extends as she comes down.
+NNP Did you like it?
+NHG I really enjoyed it!
+NHG I think I'm less scared now, but I think I've had enough for one day.
+HHP I'm glad you enjoyed it. 
+NHX We had fun but now it's time to leave.
+--B
+NNX I wanted to do something exciting, so I went rock climbing with Laura
+XNG I'm a little scared of heights, but I hope that going rock climbing will help me get over it.
+bg rock climbing.png 
+fg Instructor|instructor.png
+NNX When we arrive, the instructor helps us get into the harness.
+XNG I'm having trouble, can you please help me?
+XNG I'm having trouble, can you please help me?
+XNInstructor Just put your arms here, legs there, and click the clamps. 
+XNG Can you go first? I'm scared.
+NNP I'm scared too. I don't want to go first.
+XNG Ok, I'll go first then.
+NXX I watch Laura climb while the instructor is the belayer. 
+NXX She lost her balance several times, I can't help but laugh.
+NSG Why are you laughing at me? I'm scared!
+HSP I can't help but laugh! It's so funny watching you be scared like that.
+NSG That is NOT funny!  I've had enough! Let me down!
+NSX Now it's my turn to climb. 
+NXX I try my best but can't get the grip right.
+NXX I keep on losing my balance.
+NXX I don't know where to position my feet.
+NXP I've had enough, let me down please.
+NXX I get down and then leave the place, not feeling satisfied.

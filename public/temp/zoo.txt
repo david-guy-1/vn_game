@@ -1,0 +1,37 @@
+--G
+NXX I have an idea of something that I'm sure Laura would like.
+NNP You're a biology major, right? Do you want to go to the zoo?
+XNG No, I'm a physics major. But I do like biology. Sure, that sounds great!
+bg zoo.png
+NNX We pay the admission fee and go inside. 
+NNG There are a lot of ethical controversies about zoos.
+NNG Some argue that they help protect endangered species while educating the public about animals.
+NNG Others argue that people don't have the right to capture and imprison animals.
+NNG This is why you should only go to accredited zoos like this one.
+NNG The Association of Zoos and Aquariums is an organization that give out accreditations that meet their standards.  
+NNG Unaccredited zoos that care more about profit than well-being of animals are cruel.
+NSG Don't go to them please.
+NNX We look around at various animals in simulated habitats.
+NNX Laura tells me tons of fun facts that she learned from reading textbooks on biology and ecology.
+NNG There's a mathematical formula called the Lotka-Volterra equations
+NNG They are used to model predator-prey dynamics. 
+NNG They are differential equations that have a periodic solution. 
+NNG Another thing I find fascinating is the logistic curve.
+NNG It starts out as an exponential, describing exponential population growth if food is abundant and the population is far from the carrying capacity.
+NNG But as resources become more scarce, the curve slows down and eventually reaches a maximum.
+NNX I enjoyed listening to Laura talk  about things that she's passionate about. 
+NNX I also learned a lot.
+--B
+NXX I have an idea of something that I'm sure Laura would like.
+NNP You're a biology major, right? Do you want to go to the zoo?
+XNG No, I'm a physics major. But I do like biology. Sure, that sounds great!
+bg zoo.png
+NNX We pay the admission fee and go inside. 
+NNX Laura tells me tons of fun facts that she learned from reading textbooks on biology and ecology.
+NNX But I don't really care about them.
+NNG Do you know about the Lotka-Volterra equations?
+NNG They are differential equations that describe predator-prey dynamics.
+NNP I know about them, but I don't really care. 
+NNP As a pure math major, real-world applications aren't really something I care about.
+NNP Of course the things I study have applications, but I like studying math for its own sake. 
+NNX We look around, not doing much other than just looking, and get tired and leave.

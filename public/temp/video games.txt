@@ -1,0 +1,34 @@
+--G
+NXX I want to go back to the university campus and do something there.
+NXX It was then when I remembered that I just bought a new video game last night.
+NNP Come to my dorm room. Let's play a game together. 
+bg video games.png
+NNX We head to my room where I show her the new video game that I just bought.
+NNP It's an RPG dungeon crawler with strategy elements. Let's try it together! 
+XHG Sure thing, how do I play?
+HHP I don't know either, I just bought it. I haven't played it yet.
+XHG Let's learn it together, then.
+NNX We play the game together, it was a lot of fun. I couldn't figure out some parts of it and Laura helped me with it. 
+XHG Watch out! There's a monster there!
+XHG I think you can avoid the attacks if you dodge them, but not if you try to block them with your shield.
+XHG Learn flaming blast as soon as possible. It does tons of damage.
+XHG I just cleared the 10th level by spamming that spell the entire time.
+HHP Thanks for the advice. I've made so much progress because of you. 
+HHX After we've gotten through a significant part of the game, I felt burnt out and decided to do something else.  
+--B
+NXX I want to go back to the university campus and do something there.
+NXX It was then when I remembered that I just bought a new video game last night.
+NNP Come to my dorm room. Let's play a game together. 
+XNG I'm not really into video games, but let's try anyways.
+bg video games.png
+NNX We head to my room where I show her the new video game that I just bought.
+NNP It's an RPG dungeon crawler with strategy elements. Let's try it together! 
+XNG You're probably better than me at it.
+HHP No, I just bought this game yesterday. I didn't play it yet. 
+HHP I don't know anything about how this game works. 
+XHG Let's learn it together, then.
+NNX But as we played, I realized there is a huge issue.
+SNX It's too complicated. There are so many instructions and the tutorial isn't that good.
+SSG I'm not having fun. I don't really understand this game at all.
+SSG And the graphics aren't that good.
+SSG Can we do something else?

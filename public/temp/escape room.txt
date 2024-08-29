@@ -1,0 +1,52 @@
+--G
+NNP I have an idea, since we're both majoring in STEM fields, let's do something that requires our brains?
+NNG Like what?
+NNP How about solving puzzles. An escape room!
+bg escape room.png
+NNX We visit a nearby escape room and get ready.
+NNX After the host explains the rules, we go inside and try to solve the puzzles.
+XNG This PIN pad needs a 8-digit code. 
+NNP I found this piece of paper inside this cupboard. It's a green light of some kind from a chess pawn. 
+NNG Hmm... maybe there is something in this room that acts as a light. 
+NHG I found it! There's a switch on this blue/green thing in the corner. It's the light we're looking for!
+NNP The shadows of the pillars look like they're pointing at something.
+HHP Oh, it's a loose tile in the wall! Let's see what's inside here!
+NNG It's piece of paper with colors and numbers. 
+NNG Maybe it has something to do with the multicolored grid on the door?
+NNG Also, what's inside this purplish thing? 
+NNG A bunch of math equations. 3 + 7 = 1, 7 + 8 = 6, 5 + 8 = 4
+NNP What could this mean? So we add them we get have 10 = 1, 15=6, 13=4
+NNP I got it! It's arithmetic mod 9!
+NNP Here's an idea. Convert the colors on the grid into numbers, then add them mod 9.
+NNP Input that into the PIN pad. 
+NNX We try that and the door opens!
+HHP We did it!
+HHG We're such geniuses.
+--B
+NNP I have an idea, since we're both majoring in STEM fields, let's do something that requires our brains?
+NNG Like what?
+NNP How about solving puzzles. An escape room!
+bg escape room.png
+NNX We visit a nearby escape room and get ready.
+NNX After the host explains the rules, we go inside and try to solve the puzzles.
+XNG This PIN pad needs a 8-digit code. 
+NNP I found this piece of paper inside this cupboard. It's a green light of some kind from a chess pawn. 
+NNG Hmm... maybe there is something in this room that acts as a light. 
+NHG I found it! There's a switch on this blue/green thing in the corner. It's the light we're looking for!
+NNP The shadows of the pillars look like they're pointing at something.
+NNX But then we get stuck. We ask for a hint.
+NNX A voice comes from the speaker : "The walls are not as they seem! Look at where the shadows point." 
+NNX We keep looking at the walls and eventually find something. 
+HHP Oh, it's a loose tile in the wall! Let's see what's inside here!
+NNG It's piece of paper with colors and numbers. 
+NNP This could match up with the multicolored grid on the door.
+NNX But no matter what we try, nothing seems to work. 
+NNX We ask for another hint.
+NNX A voice comes again: "Add them row by row".
+NNG So, we just convert colors into numbers, and then add the rows?
+NNG We get numbers above 10, and can't use them for the PIN pad.
+NNX We try various things, entering only the first digits, only the last ones, and various other things.
+NNX In the end, none of them work and the time runs out. 
+NNX The voice comes up again : "Add them and reduce mod 9". 
+SSX Why didn't we think of that! 
+SSX We feel dumb as we leave the escape room. 

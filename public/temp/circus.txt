@@ -1,0 +1,46 @@
+--G
+NXX I saw a flier for a circus in town, so I decided to go there. 
+NXX I don't know how much Laura would like circuses though. 
+NXX She doesn't seem to be the kind of person who would enjoy such a thing.
+NXX But I decide to take the risk and go with her anyways. 
+bg circus.png
+NXX When we see the white and red tent, I took a quick glance at Laura's face
+NHX She's really happy.
+HHG Are we going to the circus? I love circuses!
+NHX We bought our tickets and went inside.
+bg circus inside.png
+fg Ringmaster|ringmaster.png 
+HHX The first thing I sensed is the smell of popcorn and the sound of laughter.
+XHRingmaster The show is about to start!
+XHG I can't wait to see the performances!
+XHG The acrobats, the animals, the tightrope walkers, the juggling...
+XHG I used to love circuses when I was a kid.
+XHG But there weren't any around where I lived, so I had to read about them and watch them without seeing them in person.
+XHG This is the first time watching a circus in person.
+HHP I love circuses too, but sometimes I get scared.
+HHP What if they fall and get injured?
+HHP But I try not to think too hard about it. They're trained professionals, after all.
+fg Ringmaster|
+NXX During intermission, I get some popcorn and cotton candy, and share them with Laura.
+NHX I watch the rest of the performances with Laura. I can tell she really enjoyed them.
+--B
+NXX I saw a flier for a circus in town, but circuses weren't that interesting for me.
+NNG Where are we going next? I don't like waiting.
+NXX I don't know how much Laura would like circuses though. 
+NXX She doesn't seem to be the kind of person who would enjoy such a thing.
+NXX But I don't really have a choice, I can't think of anywhere else to go.
+HNP Let's go to the circus. 
+HHG  I love circuses!
+HHG I used to love circuses when I was a kid.
+HHG But there weren't any around where I lived, so I had to read about them and watch them without seeing them in person.
+HHG This is the first time watching a circus in person.
+bg circus.png
+NHX I drive there, we buy tickets and go inside.
+bg circus inside.png
+HNP Are you liking it?
+HSG I guess...
+XSG This isn't really what I had in mind. 
+XSG The snacks are a bit overpriced
+XSG The performances are not that great
+XSG It just doesn't feel magical
+SSX We leave halfway during the show, feeling disappointed.

@@ -1,0 +1,42 @@
+--G
+NXX I want to play a game. I don't want to just walk around and look at stuff.
+NNP Do you have any ideas on any games we can play?
+NNG Let's go bowling. There's a bowling alley nearby. 
+NNP Sure thing. Let's go there.
+bg bowling.png
+NNX When we get there, we put on our bowling shoes and get ready. 
+NNP These balls are so much heavier than I expected. 
+NNP Now, how do we do this?
+NNInstructor Aim at the "sweet spot" between the 1 and 3 pins.
+NNInstructor Keep your arm straight. 
+NNX I throw my first ball and it goes in the gutter.
+SNP Oh no!
+NNG Let me try!
+NNG At least I hit the pins, but it's a 7-10 split. 
+NNInstructor Those are almost impossible to convert. 
+NNInstructor It's technically possible, but you need to make the pin hit the wall and then bounce back to the other pin. 
+NNInstructor You should just try to get one of the pins.
+NNX She throws another ball but misses.
+NNX The instructor teaches us the right techniques to throw the ball, and then me and Laura play a round against each other.
+NNX Neither of us are very good. We never got any strikes or spares.
+NNX In the end, she won by a few points.
+NHG Yay! I won! This is so much fun!
+HHP I had fun too even though I didn't win. 
+NHX After we're done playing, we leave. 
+--B
+NXX I want to play a game. I don't want to just walk around and look at stuff.
+NNP Do you have any ideas on any games we can play?
+NNG Let's go bowling. There's a bowling alley nearby. 
+NNP Sure thing. Let's go there.
+bg bowling.png
+NNX When we get there, we put on our bowling shoes and get ready. 
+NNP These balls are so much heavier than I expected. 
+NNP Now, how do we do this?
+NNInstructor Aim at the "sweet spot" between the 1 and 3 pins.
+NNInstructor Keep your arm straight. 
+NNX But as much as I try, I can never get it right.
+NNG Let me try! 
+NSG Oh no, mine went in the gutter too!
+NNX Neither me nor Laura are any good at bowling, we can't get anything right.
+NNX And we're not having fun either, failing over and over again.
+NNX After we realize that neither of us actually wants to do this, we decide to leave.

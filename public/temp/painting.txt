@@ -1,0 +1,46 @@
+--G
+NXX I'm getting a bit tired of studying math and science all the time. I want to do something different.
+NXX Maybe something artistic. Like painting.
+NXX There is a place nearby offering art classes. 
+XNG We're going painting? I'm not very good at art.
+NNP Don't worry about it, it's OK to make mistakes. 
+NNP It's about fun, not being perfect.
+bg painting.png
+NNX We get there and go inside. We pay the entry fee and get ready to start painting.
+XSG This is hard, I'm scared to make any stroke.
+XSG What if I make a mistake? There's no undo button here.
+NNP It's ok, just paint something simple.
+NNP Try drawing a grassy scene. Green on the bottom and blue on the top.
+NNP And a blot of yellow for the sun.
+XHG I think I'm getting the hang of it now.
+NHP Also, if you make a mistake, it's ok, just draw around it and make it look like it was intentional 
+XHG Thank you so much, you made me feel so much more confident.
+XNG What are you drawing?
+NNP A city landscape with buildings.
+NNP I grew up in a place like this.
+NNP I lived in an apartment. When I looked outside I saw tall buildings and windows.
+NNX I chatted with Laura about our paintings.
+NNX I had a lot of fun making the paintings.
+NNX We made mistakes but we didn't care as it's not serious.
+NNX Then after we're done, we took pictures of our paintings and went back to the car.
+--B
+NXX I'm getting a bit tired of studying math and science all the time. I want to do something different.
+NXX Maybe something artistic. Like painting.
+NXX There is a place nearby offering art classes. 
+XNG We're going painting? I'm not very good at art.
+NNP Don't worry about it, it's OK to make mistakes. 
+XSG But I'm terrible at painting.
+NNP Just try it, everyone is terrible when they first start. 
+XSG I really don't want to do it, but I will anyways since that's what you want. 
+bg painting.png
+NNX We get there and go inside. We pay the entry fee and get ready to start painting.
+XSG This is hard, I'm scared to make any stroke.
+NNP It's ok, just paint something simple.
+NNX But no mattter how much I encourage her, she's very scared and only painted a few strokes. 
+XNG What are you drawing?
+NNP A city landscape with buildings.
+XNG I wish I can draw as good as you.
+XSG But look at mine. It's just a few strokes.
+XSG This entire thing is just making me feel insecure about my drawing skills.
+XSG Can we do something else? 
+NNX I don't want to force Laura into doing something she doesn't want to do, so we leave.

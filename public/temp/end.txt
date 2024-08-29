@@ -1,0 +1,42 @@
+--G
+NXX After a long and fun day, I drop off Laura at her home.
+bg house.png
+NNP Goodbye Laura, I hope you enjoyed spending time with me today!
+NNG I sure did! See you tomorrow!
+bg room.png
+NXX The next day.
+NXX I have the same class again.
+NXX After it's over, I ask Laura 
+NNP Hey Laura, did you enjoy our time yesterday?
+NHG I sure did! I can't wait to do it again!
+HHG Me too. How about we go again next weekend?
+HHG Sure thing!
+--N
+NXX After a long and fun day, I drop off Laura at her home.
+bg house.png
+NNP Goodbye Laura, I hope you enjoyed spending time with me today!
+NNG I did! See you tomorrow!
+bg room.png
+NXX The next day.
+NXX I have the same class again.
+NXX After it's over, I ask Laura. 
+NNP Hey Laura, did you enjoy our time yesterday?
+NNG It was ok, I guess. 
+NNP How about we go again next weekend?
+NNG No, sorry. I'm busy then. 
+NNP That's ok. 
+--B
+NXX After a long and fun day, I drop off Laura at her home.
+bg house.png
+NNP Goodbye Laura, I hope you enjoyed spending time with me today!
+NNG Eh, see you tomorrow!
+bg room.png
+NXX The next day.
+NXX I have the same class again.
+NXX After it's over, I ask Laura. 
+NNP Hey Laura, did you enjoy our time yesterday?
+NSG No, not really.
+NSG I didn't really like the things we did. 
+NSG I was bored and didn't really have that much fun. 
+SSP Sorry to hear that. 
+SNG It's ok, we can still be friends though. 

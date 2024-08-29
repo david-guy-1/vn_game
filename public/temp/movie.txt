@@ -1,0 +1,40 @@
+--G
+NXX I didn't know where to go, but a typical thing to do is to go watch a movie.
+NXX So I decided to try it out, even though I'm not really into movies.
+NXX Maybe it's something fun. 
+NXP Do you want to watch a movie together?
+XHG Sure thing, although I don't know any. Do you have any ideas?
+NHP There's a semi-popular movie that is being played today. It's about space exploration and scientific research.
+XHG Sounds great. Let's go!
+NXX I drive to the movie theater and buy the tickets.
+bg movie theater.png
+NXX I also buy some popcorn and snacks. Then, I go take my seat. 
+NHX The movie was great. It was a documentary about the future of space exploration. 
+NHX I learned a ton and really enjoyed it. Based on her big smile, I can tellt hat Laura did too.
+XHG It was so interesting. I wish I can walk on Mars.
+XHG Or even visit some of the moons of Jupiter.
+XHG Relativity is so fascinating as well. A trip to nearby stars can take less than a year in the spaceship's time while decades pass on earth. 
+XHG What was your favorite part?
+HHP I really like the part about the Pioneer effect
+HHP They thought it was new physics that made the spacecraft accelerate, but it was just how heat loss occurred in the spacecraft.
+HHP It goes to show how, even given the known laws of physics, we can still make new discoveries. 
+HHP I also loved the part about black holes.
+HHP How the event horizon is just a coordiante singularity in the Schwarzschild metric, and disappears in the Kruskal-Szekeres coordinates.
+HHX After the movie is over, we go back into the car. I chat with Laura about the documentary as I drive to the next destination
+--B
+NXX I didn't know where to go, so I ask Laura for some ideas.
+XNG Do you want to watch a movie together?
+SNP I'm not really into movies.
+XNG Come on, it will be fun!
+NNX Even though I don't really like movies that much, I still decide to go and watch one.
+NNX Simply because I don't know where else to go.
+NNX As I drive to the movie theater, I don't know what to watch.
+NNP Do you have any ideas on what to watch?
+XNG There is a documentary about space exploration. Let's watch that one.
+bg movie theater.png
+NNX I buy tickets, get popcorn, and take my seat. 
+NNX It was ok, I guess. 
+NNX But a lot of the jargon was lost on me. I didn't really understand what they were talking about. 
+XSG I don't like this movie, it's a bit bad. 
+XSG I want to go home.
+NSX We leave halfway through the movie and go back to the car.  

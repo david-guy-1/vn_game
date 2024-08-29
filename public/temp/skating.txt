@@ -1,0 +1,36 @@
+--G
+NXX I want to do something fun with Laura. Something that gets both of us moving.
+NXX I decide to go skating with her.
+XNG Skating sounds fun, let's try it.
+bg skating.png
+NXX We go to the skating rink, and try to put on our shoes.
+XNG I need help putting these on.
+NNP You have to loosen the laces first. Then, tighten them after you put your feet in.
+NXX We put on our helmets and get on the ice.
+XNG I'm a little nervous about falling. It's scary.
+NNP It'll be fine, just get back up.
+NNX We skate around for a little bit, it wasn't long before Laura fell down.
+XSG It's hard to get up, the ice is so slippery.
+NNP Get on your knees, then put one knee up, then the other. 
+XNG Thanks.
+NNX We were nervous at first, but after doing a few laps, we gained confidence and skill.
+NNX After a few minutes, we skated around the entire rink without falling. 
+XHG This is fun! I'm starting to get the hang of it now.
+XHG I like this a lot. I'll try skating backwards now. 
+HHX After skating around a few more times, forwards and backwards, we decide it's time to go back.
+--B
+NXX I want to do something fun with Laura. Something that gets both of us moving.
+NXX I decide to go skating with her.
+XNG Skating sounds fun, let's try it.
+bg skating.png
+NXX We go to the skating rink, put on shoes and helmets, and get on the ice.
+NNX We skate around for a little bit, it wasn't long before Laura fell down.
+XSG I can't even get back up, the ice is so slippery.
+NSP I actually don't know how to get back up. I've never skated before.
+XSG I don't want to be stuck here. 
+NNX She slides back to the entrance and gets up there. 
+NNX I think that having an instructor would be better.
+NNX An insutructor would teach us techniques on how to skate properly, but we don't have one right now. 
+NNX I can tell Laura isn't very happy either.
+XSG I don't want to do this anymore, can we leave?
+NNP Ok, let's go.

@@ -1,0 +1,45 @@
+--G
+NXX I have an idea for something interesting and unique. 
+NXP Let's visit a botanical garden!
+NXP We can look at flowers and other types of plants there.
+XHG I would love to!
+XHG I'm fascinated about plants and nature in general.
+bg garden.png
+NXX We arrive at the garden, we walk around and look at the various plants there.
+XHG Did you know that plant cells are different from animal cells?
+XHG They have a cell wall. 
+NHP What's that?
+XHG It provides structural support for the cell, and is semi-permeable. 
+XHG That means some things can pass through but not others. 
+XHG Also, have you heard of the Calvin cycle?
+NHP I think so, it's a chemical reaction, right?
+XHG Yes, it takes carbon dioxide and other substances, and makes glucose
+XHG Some of it is light-dependent, it's a part of photosynthesis.
+NHP This is all very fascinating. Where can I learn more about it?
+XHG I learned it from reading textbooks.
+XHG My father is a biologist (although not a botanist) and he had a ton of books on various subjects.
+XHG Cellular biology, ecology, biochemistry, and evolutionary biology.
+XHG When I was young I loved reading them.
+HHX I chatted with Laura about plants, she taught me so much and I loved learning about those things.
+HHX Eventually, we saw everything and it's time to go back.
+--B
+NXX I have an idea for something interesting and unique. 
+NXP Let's visit a botanical garden!
+NXP We can look at flowers and other types of plants there.
+XHG I would love to!
+bg garden.png
+NXX We arrive at the garden, we walk around and look at the various plants there.
+XHG Did you know that plant cells are different from animal cells?
+XHG They have a cell wall. 
+NHP What's that?
+XHG It provides structural support for the cell, and is semi-permeable. 
+XHG That means some things can pass through but not others. 
+NHP Is botany interesting to you?
+XHG Yes! I'm fascinated about plants and nature in general.
+NHP It's boring though. Plants don't even move or walk around. They just stay there.
+XSG How can you say that? Plants grow food for humans and animals. They're an essential part of the ecosystem.
+NSP I don't really care about them, that's all. I know they're important but to me, all they do is look pretty.
+NSX Laura keeps on trying to tell me fun facts to get me to like plants, but I'm just not interested in it.
+SSX I just want to look at pretty flowers, I find her attempts distracting.
+SSX I don't think Laura liked it either, I don't share the same enthusiasm as her.
+SSX After we see everything, we go back, neither of us very happy.

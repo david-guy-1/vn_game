@@ -1,0 +1,49 @@
+--G
+NXX I think it's time for some ancient history. I decide to go to the museum.
+NNX Although neither me nor Laura are interested in ancient history, I decide that it's fun to learn about new things. 
+NNX Maybe we'll discover that we like it.
+NNG We're going to the museum? Interesting. 
+bg museum.png
+NNX We pay the admission fee and go inside.
+bg museum inside.png
+NNX There are so many things to look at. I don't know where to start
+NNG Let's look at the natural wonders section first. 
+NNG I don't know if you know this, but I'm a huge fan of biology. 
+NNP Ok, sure, let's check it out. 
+NNX I look at prehistoric animals, such as trilobite fossils.
+NNX They were sea creatures that went extinct in the Permian extinction event.
+NNX Then, we went to the section on ancient civilizations.
+NNX I learned so much about them. 
+NNX The Iliad and Odyssey of Homer, the Valley of the Kings in Egypt, The dynasties of China.
+NHG What's do you find most interesting?
+NHP That we still don't know who King Tutankhamun's mother is.
+NNP Her mummy has been found, she's the "Younger Lady" in KV35.
+NNP But we still don't know her name or identity. 
+NNG That intrigues me too. Also the way she died. 
+NNG It was from a blow to her face. 
+NNX We continue looking at various artifacts in the museum , then after we're done, we go back.
+--B
+NXX I think it's time for some ancient history. I decide to go to the museum.
+NNX Although neither me nor Laura are interested in ancient history, I decide that it's fun to learn about new things. 
+NNX Maybe we'll discover that we like it.
+NNG We're going to the museum? Interesting. 
+bg museum.png
+NNX We pay the admission fee and go inside.
+bg museum inside.png
+NNX There are so many things to look at. I don't know where to start
+NNG Let's look at the natural wonders section first. 
+NNG I don't know if you know this, but I'm a huge fan of biology. 
+NNP Ok, sure, let's check it out. 
+NNX I look at prehistoric animals, such as trilobite fossils.
+NNX But I don't find it very interesting.
+NNX They lived millions of years ago and not in the same time period as us.
+NNX Then, we go to the ancient civilizations section. 
+NNP To be honest, I don't think this stuff is that important. 
+NNP It's from such a long time ago and I don't think it's that relevant to today.  
+NNG I don't think so, history gives us the context of why the things are the way they are today.
+NNP But why do I need to know the "why"? Can't I just live life without questioning why things are the way they are?
+NNP I can drive a car without thinking about who invented cars and their history.
+NNG You're right that you don't need to know history to drive a car. 
+NNG But do you ever get curious? 
+NNP I just don't think it's important.
+NNX We quickly go through the entire museum, visiting each area only briefly, then go back.

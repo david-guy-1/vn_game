@@ -1,0 +1,41 @@
+--G
+NXX I know a place with an amazing view. 
+NXX You can see trees, the city, and beautiful cliffs and mountains there.
+XNG Where are we going?
+HNP It's a surprise!
+bg stargazing.png
+NXX I drive to the place and walk there
+HNP Now look over there
+XHG It's gorgeous!
+XHG I love the view here! 
+HHP It's amazing, isn't it?
+HHP My mother took me to this place when I was young.
+HHP I used to be obsessed with this place.
+HHP I constantly begged my mother to go here all the time.
+HHP My favorite part is that I can see the entire city from here.
+HHP I felt like an angel, watching down from heaven.
+XHG That mountain is gorgeous!
+XHG I want to climb to the top of that mountain.
+NHP It's a bit too far away though. We can't go there today.
+NHP Maybe sometime later, we can go climb that mountain together. 
+HHX I spend some time enjoying the beautiful scenery with Laura.
+HHX I wish I can just stay here forever.
+SXX But alas I can't. Eventually we decide to go back
+HHX I can tell that Laura enjoyed the view just as much as I did. 
+NXX We go back to the car and drive to our next destination.
+--B
+XHG I know a place with a very nice view 
+XHG Do you want to go there?
+NXX Going to a place merely for the view isn't really my thing, but I decide to go there anyways, just for Laura.
+HHP Ok, tell me where it is.
+NXX I drive to the place and get off the car. 
+bg stargazing.png
+NHP Here it is. Do you like the view?
+NHX The view is nice, I'll admit, but it's a bit boring.
+NHX I don't know why I had to drive here to see it when I can just look at it from my smartphone's screen. 
+SHP It's ok, I guess.
+SSG What do you mean "it's ok"? You don't like it.
+NSP I mean, I like it, ... but ... 
+NSP It's not that much different from the scenery that I can look at on my phone.
+XSG Looking at something on the phone is nothing like looking at it in real life!
+NSX I realize that Laura isn't happy, so I decide to just drop the subject and go back.

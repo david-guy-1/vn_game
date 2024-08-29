@@ -1,0 +1,39 @@
+--G
+XNG Can we go to the library? 
+XNG There are some books that I want to check out for next semester.
+NNP Ok, sure. I want to get some books too. 
+bg bookstore.png
+NNX We go into the library and to the non-fiction section.
+XNG I'm getting some books on quantum field theory, complex analysis, and compiler construction. 
+XNG They're all so fascinating and are the topics of the courses I'm taking next semester.
+XNG I want to get a head start.
+NNP What are those things about?
+XNG Quantum field theory is the scientific theory that particles are excitations in quantum fields. 
+XNG It's a combination of special relativity and quantum mechanics.
+XNG Complex analysis is the study of functions on the complex numbers.
+XNG The complex-analytic analogue of a differentiable function is a holomorphic function.
+XNG Holomorphic functions are analytic - this is a major theorem in complex analysis.
+XNG Compilers are computer programs that turns code from one language to another, usually high-level code into low-level code.
+XNG For example gcc is a compiler that turns C/C++ to assembly.
+NNP That's all very interesting!
+NNP I'm getting a math textbook on algebraic number theory. 
+NNP It's about number fields : finite degree extensions of the rational numbers, and their rings of integers.
+NNP It's used in cryptography, such as in the general number field sieve.
+NNP Which is an algorithm for factoring numbers and breaking RSA. 
+NNX We check out our books and leave. 
+--B
+XNG Can we go to the library? 
+XNG There are some books that I want to check out for next semester.
+NNP Ok, sure. I want to get some books too. 
+bg bookstore.png
+NNX We go into the library and to the non-fiction section.
+XNG I got a book about quantum field theory.
+XNG They're all so fascinating and are the topics of the courses I'm taking next semester.
+XNG I want to get a head start.
+XNG Quantum field theory is the scientific theory...
+NNP Sorry to interrupt, but I'm not really interested in science. I'm more of a pure math kind of person.
+XNG But I find it fascinating. Wait. Aren't you a math major? 
+XNG I got a book on complex analysis as well. 
+NNP That stuff is trivial. Everything is so nice and well-behaved.
+NNP Since holomorphic function are all analytic, you don't get any weird stuff unlike real analysis.
+NNX Realizing that the things we like don't really match up, we just check out our books and leave.

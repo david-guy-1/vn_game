@@ -1,0 +1,46 @@
+--G
+NXX I wanted to play a game with Laura. There is a board game cafe nearby and I wanted to go there.
+bg board games.png
+NXX When we arrive, I look at the wide variety of games available.
+HNX How do I choose one? They all look so good.
+NNP Which one would you like to play?
+XNG How about Snakes and Ladders? This one could be fun. 
+NNP I don't really like games that are completely based on luck. 
+XNG Oh, what about chess? There's no luck in chess.
+NNP Chess is fun but I'm not really good at it.
+NNP But I'll try it anyways.
+NNX As expected, I got completely stomped.
+NNX I blundered in the opening and hanged a piece. 
+NNX I got checkmated soon after.
+SNP Are there games that involve both luck and skill? 
+XNG Let's try backgammon. 
+NNP I don't really know how to play backgammon. Can you teach me?
+XNG It's very simple, just roll the dice, and choose which piece to move that number of squares.
+XNG If you land on a place with only one opposing piece, you can take their piece off and move it to the center of the board.
+XNG Then they have to start all over again. 
+NNP I kinda understand, let's try playing one round.
+NHX Being new to this game, Laura gets an early advantage rather quickly.
+NHX But I get a few lucky dice rolls. 
+HHP I win!
+XHG I had fun too even though I lost.
+XHG Playing board games isn't about winning, it's about fun!
+NHG We had a lot of fun trying out various board games before it's time to go back.
+--B
+NXX I wanted to play a game with Laura. There is a board game cafe nearby and I wanted to go there.
+bg board games.png
+NXX When we arrive, I look at the wide variety of games available.
+NXP Which one do you want to play?
+XNG How about Snakes and Ladders? 
+NNP Ok, let's play.
+NNX We play for a bit, but quickly realize there is a problem.
+SNX It's completely luck based.
+NNX Most board games involve rolling dice or taking cards. 
+NNX I know that it adds some unpredictability to the game, but I always find it unfair.
+NNX There's also chess, a game that has no luck. 
+HNP Let's play chess! I want to play a game that is all skill and no luck.  
+NNX I'm not really good at chess though, but I won't tell her just yet.
+XNG Ok, let's play one round.
+SSX Unfortunately, there are so many weird rules such as check and checkmate, en passant, castling, etc. 
+SSX We had to constantly consult the rule book. That isn't fun. 
+XSG Board games aren't really my thing.  Can we do something else?
+NXX I didn't want to pressure Laura into doing something she doesn't want to do, so we stop playing and go back to the car. 

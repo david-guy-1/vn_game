@@ -1,0 +1,41 @@
+--G
+NXX I remembered that I needed to do some grocery shopping. I decide to bring Laura with me. 
+NHG The grocery store? How convenient! There are some things I wanted to buy. 
+NXX We get off the car and go into the store
+bg store.png
+XNG Let's see what I wanted to buy...
+XNG Some sliced bread, some eggs, and some fruits.
+XNG Also a few snacks and sweet stuff.
+NXX Firstly, we went to the bread aisle
+XHG I love this bread, it's my favorite brand!
+NHP I like that brand too. 
+NNX Next, we went to buy some eggs.
+XNG Be careful, you don't want to crack them!
+XNG I love making scrambled eggs for breakfast. 
+XNG They're a great source of protein.
+NNX Finally, we went to the fruits aisle.
+XHG Bananas are my favorite fruit!
+XHG They're easy to peel, and taste really sweet.
+XHG They're also a great source of potassium.
+NHX I remember reading somewhere that bananas are slightly radioactive, but the amount is too small to do any significant harm.
+NHX But I'm not gonna say this to her because I don't want to sound negative.
+NHX To get a lethal dose, millions of bananas are needed. 
+XHG Did you know that I have a huge sweet tooth?
+XHG Cupcakes, candies, chocolate...
+XNG I know it's not very healthy though so I don't eat too many sweets and try to control myself.
+XNG It's hard though.
+NHX We buy the things we need and go home. 
+--B
+NXX I remembered that I needed to do some grocery shopping. I decide to bring Laura with me. 
+XSG The grocery store? I guess there are some things I want to buy. 
+XSG But this isn't really what I had in mind
+NSP There are some things I need to buy, I just want to get it over with.
+bg store.png
+NNX I drive to the store and go inside.
+NNX I quickly go around the grocery store, buying the things I need. 
+NNX It takes a long time though. It's hard to find the things I need and the store is really big.
+NSP Laura, is there something wrong? You don't look happy. 
+XSG This is boring, I don't want to be going grocery shopping.
+XSG I'd rather do something fun.
+XSG And it's taking a long time for you to find the things you need. Can we do something else instead?
+SSX I decide that since she's not having fun, I'll go check out my items and finish my shopping later.

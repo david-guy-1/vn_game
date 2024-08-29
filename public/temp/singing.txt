@@ -1,0 +1,48 @@
+--G
+XNG Hey I have an idea!
+XNG Let's go to a karaoke bar! I want to hear you sing!
+NNP I'm not very good of a singer though. Are you sure?
+XNG Even if it's bad it won't be that big of a deal.
+NNP I'm actually horrible at singing. You don't want to hear it. 
+XNG Come on, you keep telling me to try new things. Why not take your own advice and try new things?
+NNP Ok, let's go then. 
+bg karaoke.png
+NNX We got to the karaoke bar, start a song, and try to sing along.
+NNP Let's choose an easy one to start with.
+NNP Au clair de la lune, mon ami Pierrot...
+NNX I realize that my singing is completely out of tune.
+NNX But Laura wanted me to take my own advice, so I kept singing.
+NNX When I'm done, I asked her what she thought of it.
+NHG For someone who says they're horrible at singing, it's actually not that bad.
+NHG Now let me try.
+NNX Of course, she's much better than I am. 
+NNX I really love how good she is at singing. 
+NHG You try again!
+NHP Ok... 
+NHX This time I feel a little bit more confident. 
+NHX She told me "it's actually not that bad" and I believe her.
+NHX We sing a few songs together, and then we go back.
+--B
+XNG Hey I have an idea!
+XNG Let's go to a karaoke bar! I want to hear you sing!
+NNP I'm not very good of a singer though. Are you sure?
+XNG Even if it's bad it won't be that big of a deal.
+NNP I'm actually horrible at singing. You don't want to hear it. 
+XNG Come on, you keep telling me to try new things. Why not take your own advice and try new things?
+NNP Ok, let's go then. 
+bg karaoke.png
+NNX We got to the karaoke bar, start a song, and try to sing along.
+NNP Let's choose an easy one to start with.
+NNP Au clair de la lune, mon ami Pierrot...
+NNX I realize that my singing is completely out of tune.
+NNX So, I stop. 
+XNG Is something wrong?
+SNP I'm singing horribly, completely out of tune, and my voice crackles.
+XNG It's not that bad. Don't worry about it.
+XNG We're here to have fun.
+SNP I'm not having fun!
+XNG Let me try then. You just listen.
+SNX Of course, she's much better than I am. 
+SNX I'm jealous at how good she is at singing. 
+SNX I'll never be as good as her.
+SNX After singing a few songs together, we go back, not very happy.

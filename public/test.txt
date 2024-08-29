@@ -1,0 +1,22 @@
+--G
+NXX This is a test
+NNX The girl is here
+bg golf.png
+NNP Scene transition 
+bg park.png
+NNP another scene transition
+fg Ringmaster|ringmaster.png
+NNP This is a person
+NNRingmaster Hello all
+fg Ringmaster|
+fg Coach|coach.png
+NNP This is a person
+NNCoach Hello all
+fg Coach|
+fg Instructor|instructor.png
+NNP This is a person
+NNInstructor Hello all
+fg Instructor|
+NNP The end
+--B
+NXX This is the bad ending

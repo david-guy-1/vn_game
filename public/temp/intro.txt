@@ -1,0 +1,12 @@
+--G
+bg room.png
+NXX And that's the end of my morning lecture.
+NXX I have no classes this afternoon. I have the rest of the day free!
+NXX What should I do? 
+NXX I'll ask my classmate, Laura, if she wants to do anything with me.
+NNP Hey Laura, I'm free for the rest of the day today.
+NNP Do you want to go do something with me?
+XNG Sure! I have the rest of the day free too. 
+XNG Just make sure to drop me home by tonight.
+HHP Yay! 
+HHX And so, Laura and I get into my car and start driving around, looking for places to do. 

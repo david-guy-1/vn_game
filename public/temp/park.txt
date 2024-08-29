@@ -1,0 +1,37 @@
+--G
+NXX Laura wanted to relax a little bit, so we decided to take a walk in the park.
+NXX I didn't know she is a nature-loving girl, but the park can be an interesting place to be in.
+NXX I find a nearby park and drive there. 
+NXP We're here now, let's go!
+XHG Yay!
+bg park.png
+XHG I love taking walks in the park. 
+XHG Listening to the breeze, the birds singing
+XHG The kids playing, the people walking.
+XHG It's so relaxing and peaceful.
+HHP Me too.  
+HHP This place reminds me of my childhood
+HHP I used to play tag with my friends and neighbors here all the time. 
+HHP When I was a child, after I got home from school I couldn't wait to play with my friends. 
+HHP I had so much fun!
+HHP Let's play right now!
+HHP Tag! You're it!
+HXX I touch Laura and then run away as fast as I can
+HXX It's only a matter of time before she catches me
+XHG You're it!
+HXX We had a lot of fun playing with each other, talking about our childhoods, and about interesting things that we saw in the park.
+HXX I can tell that both Laura and I had a good time here.
+--B
+NXX I didn't know where to go, so I decided to start small, and go to the park.
+XNG Wait. We're going to the park?
+NNP Yes, do you want to come?
+XNG I guess...
+bg park.png
+NNX We get out of the car and start walking around in the park
+XNG I used to love playing in the park when I was a child.
+XSG But now that I'm an adult...
+XSG I don't have anyone to play with. All of my childhood friends have mvoed away.
+HSP Why not play with me?
+HNG I guess I could, but I've kinda grown out of playground games now. 
+HNG I prefer doing other stuff now.
+NXX We take a short walk then go back to the car.

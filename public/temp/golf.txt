@@ -1,0 +1,43 @@
+--G
+NXX I wasn't sure what to do, just driving around.
+NXX Then I remembered something.
+NNP Let's go golfing, I just remembered that I have a lesson today. 
+NNG Sure, let's go there. 
+bg golf.png
+NNX We get our clubs and start to play.
+NNX We are a bit early, the coach hasn't arrived yet, so we practice a little bit before he comes. 
+XNG These clubs are so hard to use.
+XNG They're really small it's easy to miss the ball.
+NNX Then, the coach arrives and starts the lesson. 
+fg Coach|coach.png
+NNCoach Remember to keep a goond posture.
+NNCoach You'll miss the ball a lot when you first start, so for now, just practice hitting the ball.
+NNX The coach teaches us how to keep a good posture, how to swing, and how to turn our shoulders and hips.
+NNX Over time, we can consistently hit the ball.
+NNX But still have no control over where it goes.
+fg Coach|
+NNX Then, the coach leaves us to practice on our own for a little bit.
+NNX Laura and I take turns hitting the ball, it goes in random and unpredictable places.
+NNX Eventually, we get it in the hole.
+XHG We did it!
+HHP Yes we did! It was great playing with you.
+HHX Our time ran out, so we return the clubs, the ball and go back. 
+--B
+NXX I wasn't sure what to do, just driving around.
+NXX Then I remembered I had golf lessons today.
+NNP Let's go golfing, I have a lesson soon. 
+NNG Sure, let's go there. 
+NNX We get our clubs and start to play.
+bg golf.png
+NNX We are a bit early, the coach hasn't arrived yet, so we practice a little bit before he comes. 
+NNX Then, I get a message from my coach.  
+NNP Today's lesson is postponed. But since we're here, let's try to play anyways. 
+XNG These clubs are so hard to use.
+XNG They're really small it's easy to miss the ball.
+NNX But no matter how much we try, we almost always miss the ball.
+NNX The few times we hit it, it just flies off in a random direction and I have to pick it up. 
+SNX I spend more time walking to get the ball than actually playing golf.
+SNX Sometimes it lands in water and I have to get myself wet to get the ball.
+NSG This isn't really fun for me.
+NSG Can we do something else, especially since your lesson is postponed?
+SSP Ok. Let's go do something else then.

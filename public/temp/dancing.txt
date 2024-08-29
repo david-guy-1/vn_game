@@ -1,0 +1,46 @@
+--G
+NXP I'm not sure what to do next.
+NXP I want something we can do together, and something that we can do instead of just look at.
+NNG Let's try dancing together.  
+NNP I'm not very good at dancing.
+NNG Neither am I, but we can at least try something slow and easy.
+bg dancing.png 
+NNX We go to the dance hall and start dancing. 
+NNG Which one should we do first?
+NNP How about we do a slow, easy one together. Nothing too intense.
+NNP Like I said, I'm not very good at dancing. 
+NNG Ok, let's do a slow waltz.  
+NNX I watch my feet very carefully to make sure that I don't step on hers.
+NNG Slow ballroom dances are my favorite. 
+NNG I don't like those physically exhausting dances.  
+NNG I just want to have fun and relax.
+NNP Yeah, me too.
+NNP I'm new to this kind of thing. I've never danced with anyone actually. 
+NNG It's not that hard if you get into the rhythm and develop muscle memory.
+NNG You need to know where to move your feet, but it's not that hard.
+NNX Dancing with Laura and seeing her face up close...
+HNX Made me realize just how gorgeous she is. 
+HNX We both loved dancing together. 
+NNX After we finish dancing, we go back.
+--B
+NNP I'm not sure what to do next.
+NNP I want something we can do together, and something that we can do instead of just look at.
+NNG Let's try dancing together.  
+NNP I'm not very good at dancing.
+NNG Neither am I, but we can at least try something slow and easy. 
+NNX We go to the dance hall and start dancing. 
+bg dancing.png
+NNG Which one should we do first?
+NNP How about we do a slow, easy one together. Nothing too intense.
+NNP Like I said, I'm not very good at dancing. 
+NNG Ok, let's do a slow waltz.  
+NNX I watch my feet very carefully to make sure that I don't step on hers.
+NNX But it's hard, I keep on stumbling
+SNP Oh, sorry!
+SNP I didn't mean to step on your toes.
+SNG It's ok, everyone makes mistakes when they first start.
+SNG I don't know what I'm doing either. 
+SNX But as much as I try not to, I keep on making mistakes and fumbling.
+SNX She does so too. I know she doesn't really care about mistakes, but I do care.
+SNX I don't enjoy this at all.
+NNX After we finish dancing, we go back.
