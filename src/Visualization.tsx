@@ -16,8 +16,8 @@ function draw_(c : CanvasRenderingContext2D, stack : stack_frame, state : game_s
     c.clearRect(0, 0, 2000, 2000); 
     // x takes in capacities, y takes in number of remaining items
     let color_rect = function(lst : draw_command[], x : number, y : number, color : string){
-        let height = 540/state.names.length; // number of items
-        let width = 960/ state.capacity; // capacity
+        let height = 540/(state.names.length+1); // number of items
+        let width = 860/ (state.capacity+1); // capacity
         lst.push({type:"drawRectangle2", "tlx" : x * width, "tly" : y * height, width : Math.max(3, width), "height" : height , "color":color, "fill": true}); 
     }
     let lst : draw_command[] = [{type:"drawRectangle", "tlx":0,"tly":0, "brx":2000, "bry":2000 , "color":"#aaaaaa", "fill":true}]
@@ -61,7 +61,7 @@ function Visualization({state, fn} : {state:game_state,fn:Function}){
     return <>
     {/* main canvas */}
 
-    <canvas id="a" style={{position:"absolute", top:0,left:0}}width={960} height={540}></canvas> 
+    <canvas id="a" style={{position:"absolute", top:0,left:0}}width={860} height={540}></canvas> 
     
     {/* back button */}
 
@@ -93,11 +93,11 @@ function Visualization({state, fn} : {state:game_state,fn:Function}){
 
     {/* list on right */}
 
-    <ul style={{position:"absolute", top:0,left:970}}><li><b>Call stack ({stacktrace.length} total calls)</b></li>
+    <div style={{position:"absolute", top:0,left:870, width:90}}><b>Call stack ({stacktrace.length} total calls)</b><br />
         {
-            stacktrace[current_stack]["call stack"].map(([x,y]) => <li> capacity : {x} , items : {y}</li>)
+            stacktrace[current_stack]["call stack"].map(([x,y]) => <> {x} , {y}<br /></>)
         }
-        </ul>
+        </div>
     {/* explanation */}
     {exp ? <div style={{position:"absolute",top:50, left:50, width:800, height:400, padding:10, zIndex:1,backgroundColor:"#cccccc", border:"1px solid black"}}> 
 

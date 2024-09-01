@@ -14,7 +14,7 @@ HNP I learned about Lie groups in one of my differential geometry courses. It's 
 HNP Take the concept of a group, and the concept of a manifold, and combine them. 
 XHG I think I understand now. It's a way of making the concept of "continuous symmetry" precise, right?
 XHG Such as the spin of an electron. 
-HHP Yes, that's a god example.
+HHP Yes, that's a good example.
 HHX I chat with Laura about various topics, school, hobbies, math, science.
 HHX And even some philosophical topics such as the nature of reality.
 HHX Since she's a physics major and I'm a math major, our topics of study are closely related and influence each other.
